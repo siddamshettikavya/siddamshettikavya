@@ -139,4 +139,3 @@ https://leetcode.com/u/siddamshettikavya/
 
 ---
 
-🚀 Learn • Build • SolveOne correction before you publish: your README should only list projects that actually exist on your GitHub or that you are genuinely able to demonstrate in an interview. Pin your best 3–4 repositories, not everything.
