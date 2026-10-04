@@ -28,7 +28,7 @@ Languages:
 Python • C
 
 Frontend:
-HTML • CSS • JavaScript • React
+HTML • CSS • JavaScript 
 
 Databases:
 MySQL • MongoDB • SQL
@@ -37,7 +37,7 @@ AI / Data:
 Machine Learning • Pandas • NumPy • Data Analysis
 
 Tools:
-Git • GitHub • VS Code • Figma • Canva
+Git • GitHub • VS Code • Figma 
 
 ---
 
@@ -137,5 +137,5 @@ https://github.com/siddamshettikavya
 
 https://leetcode.com/u/siddamshettikavya/
 
----
+
 
